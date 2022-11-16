@@ -39,7 +39,7 @@ var make_adder =(function (x){
 
 
 
- //Q10
+ //Q10 and Q11
 
  var Employee =(function(){
      let name ="Jarso"
